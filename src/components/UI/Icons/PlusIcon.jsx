@@ -1,5 +1,5 @@
 import { log } from '../../../log.js';
-
+//milllion-ignore
 export default function PlusIcon(props) {
   log('<PlusIcon /> rendered', 3);
 
